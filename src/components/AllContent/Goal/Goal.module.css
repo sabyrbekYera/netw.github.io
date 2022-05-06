@@ -1,0 +1,26 @@
+.button{
+    width: 100px;
+    height: 40px;
+}
+.allSightFlex{
+    display: flex;
+    flex-direction: column;
+}
+.allSightFlex1{
+    display: flex;
+}.allSightFlex2{
+    display: flex;
+    flex-direction: column;
+}
+.itemText{
+    background-color: blue;
+}
+.block1{
+    display: flex;
+}
+.itemText img{
+    width: 30px;
+    height: 30px;
+
+
+}

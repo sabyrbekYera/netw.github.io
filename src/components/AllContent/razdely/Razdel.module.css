@@ -1,0 +1,31 @@
+.flexRazdel{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid skyblue;
+    margin-top: 40px;
+}
+.Profile{
+    border:0.5px solid skyblue;
+}
+.Messages{
+    border: 0.5px solid skyblue;
+}
+.News{
+    border: 0.5px solid skyblue;
+}
+.Settings{
+    border: 0.5px solid skyblue;
+}
+.Goal{
+    border: 0.5px solid skyblue;
+}
+.portfolio{
+    border: 0.5px solid skyblue;
+
+}
+.first a.active{
+    color: gold;
+  }

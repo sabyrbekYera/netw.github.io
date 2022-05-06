@@ -1,0 +1,42 @@
+.Content{
+    background:url(/public/les.jpg);   
+}
+
+.allDivka{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.bigAva img{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50% ;
+    border: 8px solid white;
+    top: 170px;
+    left: 7px;
+}
+
+.addFriend button{
+    width: 120px;
+    height: 40px;
+    border-radius: 32px;
+    justify-self: center;
+    background-color: greenyellow;
+    color:blue;
+}
+.navigate a{
+    align-self: flex-end;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+}
+.navigate p{
+    margin: 0;
+    align-self: flex-end;
+}
+.item{
+    flex: 1;
+}
+
+

@@ -1,0 +1,7 @@
+.flexMessages{
+    display: flex;
+    flex-direction: column;
+}
+.person1{
+    display: flex;
+}

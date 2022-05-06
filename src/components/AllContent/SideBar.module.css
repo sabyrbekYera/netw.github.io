@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    
+}
+.MainContent{
+    background-color: antiquewhite;
+    flex-grow: 4;
+}
+.sidebar{
+    background-color: gainsboro;
+    flex-grow: 1;
+}
+
+

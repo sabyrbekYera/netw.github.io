@@ -1,0 +1,39 @@
+.header{
+    /* background-image: url(https://i.pinimg.com/originals/90/ca/e0/90cae0cf9b6cded6456a336101de9fd8.jpg);   */
+    background-color: purple;
+    height: 70px;   
+}
+.logo img{
+    width: 70px;
+    height: 70px;
+}
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+}
+.manipulationSearch{
+    display: flex;
+    align-items: center;
+    
+}
+.manipulationNav{
+    display: flex;
+   
+    max-width: 219px;
+    
+    
+}
+.navbar{
+    display: flex;
+    width: 220px ;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+  
+}
+.nav{
+    align-self: center;
+}
+

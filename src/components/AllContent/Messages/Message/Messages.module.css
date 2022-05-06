@@ -1,0 +1,4 @@
+.FlexMessages{
+    display: flex;
+    flex-direction: column;
+}

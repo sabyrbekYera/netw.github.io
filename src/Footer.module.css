@@ -1,0 +1,11 @@
+.FooterFlex{
+    display: flex;
+    justify-content: space-between;
+
+}
+.FooterFlex h1{
+    font-size: 14px;
+}
+.FooterFlex p{
+    font-size: 10px;
+}
